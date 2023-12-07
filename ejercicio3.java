@@ -2,6 +2,8 @@
 public class ejercicio3 {
 
 	public static void imprimirArrayBI(int [][] numeros) {
+	
+		
 		System.out.println();
 		for (int i=0;i<numeros.length;i++) {
 			System.out.println();
