@@ -5,7 +5,6 @@ public class ejercicio2 {
 	public static void main(String[] args) {
 		
 		String cadena="                hTtpS://www.Google.eS HTtp://iesAlixaR.oRg hTTps://www.juntadEandalucia.es                  ";
-		String cadenaprueba;
 		String cadena2=cadena.toLowerCase().trim();
 		String subcadena1="https://";
 		String subcadena2="http://";
